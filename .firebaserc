@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "intern-49212": {
+      "hosting": {
+        "intern": [
+          "intern-49212"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "intern-49212"
+  }
+}
